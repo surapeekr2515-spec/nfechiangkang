@@ -2,6 +2,6 @@
   'use strict';
 
   window.APP_CONFIG = Object.freeze({
-    API_URL: 'https://script.google.com/macros/s/AKfycbxba2Enfzaz4wu7supLpkW2V-3aQLk4AG6KtPjc6GczcifG4J7wXpcE85pmAZsoKXdBhg/exec'
+    API_URL: 'https://script.google.com/macros/s/AKfycbx2tCgA6No5jlfwvTcSqh2H08bMNjppjzP2iAvu2N8Eg9L1Ry2nnKcgcZ7Wg6jSTkW6/exec'
   });
 })();
