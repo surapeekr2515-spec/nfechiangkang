@@ -1,2 +1,2 @@
 window.STUDENT_PROFILE_WEB_APP_URL =
-  'https://script.google.com/macros/s/AKfycbzSV7SkUhXLTUDTAjY6qOkB6LVKFZFKPrSAqwBQ0iO9Z48oFZLjE2en5jnM4x4Wa77Z/exec';
+  'https://script.google.com/macros/s/AKfycbzOh-4ARzoEJq59XkZozcFrWV5qVbw-2xXsQ-YnwPaNQspDAahSY_KAUuLJ_QkdFJ83/exec';
